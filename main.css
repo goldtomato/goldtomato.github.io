@@ -16,9 +16,6 @@ body {
     padding: 0 10px;
 }
 
-.link
-{
-   color:aqua;
-   text-decoration: none; 
-   background-color: none;
+p:visited {
+    color: #002bb8;
 }
