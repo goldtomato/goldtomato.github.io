@@ -16,6 +16,6 @@ body {
     padding: 0 10px;
 }
 
-p:visited {
+a:visited {
     color: #002bb8;
 }
